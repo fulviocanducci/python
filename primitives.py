@@ -1,0 +1,6 @@
+n1 = input('Digite o número: ')
+n2 = input('Digite o número: ')
+re = int(n1) + int(n2)
+print('O resultado é {}'.format(re))
+print('O resultado entre', n1, 'e', n2, 'é', re)
+print('O resultado entre {} e {} é {}'.format(n1, n2, re))
